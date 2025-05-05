@@ -1,32 +1,31 @@
-# Hangman-Game
-A simple Hangman game using HTML, CSS, and JavaScript – guess the word before the hangman is complete!
-# 🔤 Hangman Game
+# 🔠 Hangman Game
 
-
+A fun and interactive Hangman game built with **HTML**, **CSS**, and **JavaScript**. Test your guessing skills by revealing the hidden word before the hangman is fully drawn!
 
 ---
 
-## 🎮 Features
+## 🧩 What It Does
 
-- Random word selection from a predefined list
-- Keyboard or on-screen input
-- Visual feedback for correct and incorrect guesses
-- Hangman figure progresses with each wrong attempt
-- Game over and restart functionality
-
----
-
-## 🛠️ Tech Stack
-
-- **HTML** – Game structure and layout
-- **CSS** – Styling and animations
-- **JavaScript** – Game logic, interactivity, and word validation
+- Randomly picks a word from a list each time the game starts  
+- Tracks correct and incorrect letter guesses  
+- Visually updates the hangman with each wrong attempt  
+- Alerts the user on win/loss with an option to restart
 
 ---
 
-## 🚀 How to Run
+## ⚙️ Technologies Used
 
-1. Clone the repository:
+- **HTML** – Markup structure  
+- **CSS** – Styling and layout  
+- **JavaScript** – Game logic, input handling, and UI updates
 
-git clone https://github.com/ABINANDHAN2002/Hangman-Game   ```bash
+---
 
+## ▶️ Getting Started
+
+To run the game locally:
+
+```bash
+git clone https://github.com/ABINANDHAN2002/Hangman-Game
+cd Hangman-Game
+open index.html  # Or open in your browser
