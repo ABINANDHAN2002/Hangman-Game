@@ -29,4 +29,4 @@ A simple Hangman game using HTML, CSS, and JavaScript – guess the word before 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/ABINANDHAN2002/Hangman-Game
