@@ -27,6 +27,6 @@ A simple Hangman game using HTML, CSS, and JavaScript – guess the word before 
 ## 🚀 How to Run
 
 1. Clone the repository:
-git clone https://github.com/ABINANDHAN2002/Hangman-Game
-   ```bash
+
+git clone https://github.com/ABINANDHAN2002/Hangman-Game   ```bash
 
